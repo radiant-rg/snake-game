@@ -51,4 +51,4 @@ The project utilizes a procedural approach with `turtle` objects:
 
 ---
 
-*Created for educational purposes to demonstrate Python logic and Turtle graphics.*
+
