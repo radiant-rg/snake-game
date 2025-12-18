@@ -11,7 +11,7 @@ win.tracer(0)  # Turns off the screen updates
 
 # Score variables
 score = 0
-high_score =20
+high_score =100
 delay = 0.12
 
 # Snake head
@@ -168,6 +168,7 @@ while True:
     time.sleep(delay)
 
 win.mainloop()
+
 
 
 
